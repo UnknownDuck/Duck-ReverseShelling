@@ -17,4 +17,8 @@ https://spacehuhn.wiki/wifiduck/usage/duckyscript/
 Where to buy them 
 https://www.amazon.com/digispark/s?k=digispark
 
-I got mine off of amazon 
+Main insperation for my work
+https://www.youtube.com/channel/UCFmjA6dnjv-phqrFACyI8tw?feature=emb_ch_name_ex
+
+INCREDIBLE swaps badusb script to arduino script by huhn
+https://duckify.huhn.me/
