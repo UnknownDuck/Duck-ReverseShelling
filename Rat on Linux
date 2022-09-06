@@ -1,5 +1,7 @@
 This was scary easy.
 
+Rat means = remote attacker terminal 
+
 I made a clone of a Ubuntu server on my vmware then a kali on my vmware 
 
 I created a listener on the Ubuntu Server after logging into root on the server via the sudo -i command
